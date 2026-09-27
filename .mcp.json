@@ -1,0 +1,9 @@
+{
+  "mcpServers": {
+    "space-bunny": {
+      "command": "npx",
+      "args": ["-y", "github:codaaiteam/spacebunny-mcp"],
+      "env": { "SPACE_BUNNY_API_KEY": "${SPACE_BUNNY_API_KEY}" }
+    }
+  }
+}

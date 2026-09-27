@@ -1,0 +1,7 @@
+{
+  "name": "spacebunny",
+  "description": "A 1M-token context tool for your agent — offload whole-repo analysis, long documents and transcripts to Space Bunny Alpha via the hosted spacebunnymodel.com API. Bundles the space-bunny MCP server.",
+  "version": "1.0.0",
+  "author": { "name": "codaaiteam", "url": "https://spacebunnymodel.com" },
+  "homepage": "https://spacebunnymodel.com/agent-skill"
+}

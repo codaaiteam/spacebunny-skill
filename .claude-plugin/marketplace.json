@@ -1,0 +1,15 @@
+{
+  "name": "spacebunny",
+  "owner": {
+    "name": "codaaiteam",
+    "url": "https://spacebunnymodel.com"
+  },
+  "plugins": [
+    {
+      "name": "spacebunny",
+      "source": "./",
+      "description": "Give your agent a 1,000,000-token brain. Adds a Space Bunny Alpha tool for whole-repo / long-document tasks that exceed your own context."
+    }
+  ],
+  "description": "Space Bunny agent skill — offload huge-context work (whole repos, long docs, transcripts) to Space Bunny Alpha's 1M-token context via the hosted spacebunnymodel.com API."
+}
